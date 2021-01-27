@@ -20,5 +20,5 @@ for i = 0, iM, int do
 	
 		print(i, result)
 		
-  end
+	end
 end
